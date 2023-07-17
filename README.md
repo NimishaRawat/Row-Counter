@@ -1,4 +1,4 @@
-#Row Counter
+# Row Counter
 
 I made a basic row counter website that one can use to count the number of people in a row. One can increment the number of people with increment button and save the value with save button. Once a value is saved the count sets to zero.
 My website is responsive and easy to use.
